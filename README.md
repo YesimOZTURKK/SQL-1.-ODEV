@@ -1,2 +1,5 @@
 # SQL-1.-ODEV
-SQL eğitimi kapsamında 1. ödevin cevapları
+SQL eğitimi ödevi
+***
+## DİPNOT
+[patika](https://app.patika.dev/)
