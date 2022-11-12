@@ -2,4 +2,4 @@
 SQL eğitimi ödevi
 ***
 ## DİPNOT
-[patika](https://app.patika.dev/)
+[patikadev](https://app.patika.dev/)
